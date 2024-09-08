@@ -1,0 +1,28 @@
+registre,30
+female,17
+male,13
+
+Age,Male,Female,Other
+20-30,1,9,0
+30-40,9,7,0
+40-50,3,1,0
+
+City,Male,Female,Other
+Phoenix,0,2,0
+Houston,1,0,0
+Washington,0,1,0
+Seattle,1,0,0
+Jacksonville,0,2,0
+"Fort Worth",0,2,0
+Indianapolis,2,0,0
+"San Antonio",1,0,0
+"New York",2,1,0
+Denver,1,0,0
+Columbus,3,2,0
+"San Jose",1,0,0
+"San Diego",0,1,0
+Chicago,0,1,0
+Philadelphia,0,2,0
+Dallas,0,2,0
+"Los Angeles",1,0,0
+"San Francisco",0,1,0
